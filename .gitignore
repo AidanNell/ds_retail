@@ -130,3 +130,7 @@ dmypy.json
 
 inputs/
 cleaned/
+
+test.json
+
+.idea
